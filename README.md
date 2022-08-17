@@ -10,6 +10,6 @@ sudo ./JBK.sh
 ```
 
 
-Hope you find this tool useful 
+Hope you found this tool useful 
 
 cheers !!
